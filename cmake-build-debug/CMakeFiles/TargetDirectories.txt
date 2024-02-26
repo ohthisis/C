@@ -1,0 +1,3 @@
+C:/Users/MSI/CLionProjects/Japan/cmake-build-debug/CMakeFiles/Japan.dir
+C:/Users/MSI/CLionProjects/Japan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MSI/CLionProjects/Japan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
