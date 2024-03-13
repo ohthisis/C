@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/MSI/CLionProjects/Japan/cmake-build-debug/
 
 build cmake_object_order_depends_target_Japan: phony || CMakeFiles/Japan.dir
 
-build CMakeFiles/Japan.dir/Day2/Lesson1.c.obj: C_COMPILER__Japan_unscanned_Debug C$:/Users/MSI/CLionProjects/Japan/Day2/Lesson1.c || cmake_object_order_depends_target_Japan
-  DEP_FILE = CMakeFiles\Japan.dir\Day2\Lesson1.c.obj.d
+build CMakeFiles/Japan.dir/Day2/Lesson3.c.obj: C_COMPILER__Japan_unscanned_Debug C$:/Users/MSI/CLionProjects/Japan/Day2/Lesson3.c || cmake_object_order_depends_target_Japan
+  DEP_FILE = CMakeFiles\Japan.dir\Day2\Lesson3.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Japan.dir
   OBJECT_FILE_DIR = CMakeFiles\Japan.dir\Day2
@@ -63,7 +63,7 @@ build CMakeFiles/Japan.dir/Day2/Lesson1.c.obj: C_COMPILER__Japan_unscanned_Debug
 #############################################
 # Link the executable Japan.exe
 
-build Japan.exe: C_EXECUTABLE_LINKER__Japan_Debug CMakeFiles/Japan.dir/Day2/Lesson1.c.obj
+build Japan.exe: C_EXECUTABLE_LINKER__Japan_Debug CMakeFiles/Japan.dir/Day2/Lesson3.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Japan.dir

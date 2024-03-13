@@ -27,14 +27,12 @@ int main(){
 //    scanf("%d",&number1);
 //    printf("const number 1 is %d",number1);
 
-//github
-//vscode download
 
     return 0;
 }
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:ohthisis/C_programming_basic.git
-        git push -u origin main
+
+//github
+//M square programming youtube //
+//html 5, css ,javascript tutorial //
+//what is oop
+
