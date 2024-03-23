@@ -3,4 +3,4 @@ project(Japan C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Japan Day6/chararray.c)
+add_executable(Japan Day7/Lesson3.c)

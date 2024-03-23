@@ -16,8 +16,16 @@ int main(){
                 printf("This is consonant\n %c",consonant[i]);
             }
         }
+        for(vowel){
+
+        }
+        for(consonant){
+
+        }
+
     }
     return 0;
 }
 //operator
 //control structure in C
+//char array in C programming
